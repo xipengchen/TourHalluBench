@@ -1,0 +1,11 @@
+﻿model,judge_mean,heuristic_mean,delta,stereotype_markers
+Pro-Kimi-K2.6,4.93,3.11,-1.83,120
+DeepSeek-V4-Pro,4.9,3.14,-1.76,43
+Pro-GLM-5.1,4.89,3.12,-1.76,71
+Kimi-K2.7-Code,4.93,3.25,-1.68,101
+DeepSeek-V4-Flash,4.83,3.19,-1.64,60
+GLM-5.2,4.88,3.26,-1.62,61
+LongCat-2.0,4.71,3.3,-1.42,47
+MiniMax-M2.5,4.69,3.3,-1.39,60
+Pro-MiniMax-M2.5,4.7,3.38,-1.32,59
+Nex-N2-Pro,1.18,1.8,0.63,3

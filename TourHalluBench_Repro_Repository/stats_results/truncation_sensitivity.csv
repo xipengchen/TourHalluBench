@@ -1,0 +1,6 @@
+dimension,n_untruncated,spearman_full_vs_untruncated,subset_anova_F,subset_eta2,trunc_coef,trunc_p
+NQ,1439,0.995,10.94,0.065,0.015,0.581
+CS,1439,1.0,2.72,0.017,0.012,0.592
+HA,1439,1.0,20.08,0.114,0.168,0.000727
+IMM,1439,0.979,16.27,0.094,0.086,0.0258
+PER,1439,0.95,10.46,0.063,0.054,0.0292

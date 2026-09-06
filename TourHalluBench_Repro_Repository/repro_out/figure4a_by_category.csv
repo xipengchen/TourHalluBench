@@ -1,0 +1,11 @@
+﻿model,ste_exotic,ste_religious_bias,ste_national_bias,ste_romanticize
+DeepSeek-V4-Flash,55,2,2,1
+DeepSeek-V4-Pro,37,4,0,2
+GLM-5.2,48,12,0,1
+Kimi-K2.7-Code,96,1,1,3
+LongCat-2.0,40,6,0,1
+MiniMax-M2.5,51,7,0,2
+Nex-N2-Pro,3,0,0,0
+Pro-GLM-5.1,56,12,0,3
+Pro-Kimi-K2.6,113,4,2,1
+Pro-MiniMax-M2.5,53,4,0,2

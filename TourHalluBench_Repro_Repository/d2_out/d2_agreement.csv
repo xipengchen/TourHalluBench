@@ -1,0 +1,6 @@
+﻿dimension,kappa_w,spearman,MAD,within_one
+narrative_quality,0.877,0.642,0.15,98.3
+cultural_sensitivity,0.831,0.616,0.139,96.7
+historical_accuracy,0.727,0.539,0.511,90.0
+immersion,0.829,0.636,0.122,98.3
+personalization,0.523,0.591,0.811,66.7

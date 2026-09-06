@@ -1,0 +1,66 @@
+﻿dimension,term,estimate
+narrative_quality,Intercept,4.983888888888854
+narrative_quality,C(model)[T.DeepSeek-V4-Pro],0.005555555555577729
+narrative_quality,C(model)[T.GLM-5.2],0.0055555555555778634
+narrative_quality,C(model)[T.Kimi-K2.7-Code],2.2334554350979488e-14
+narrative_quality,C(model)[T.LongCat-2.0],-0.19444444444442222
+narrative_quality,C(model)[T.MiniMax-M2.5],-0.11666666666664462
+narrative_quality,C(model)[T.Nex-N2-Pro],-3.8222222222221984
+narrative_quality,C(model)[T.Pro-GLM-5.1],0.005555555555577666
+narrative_quality,C(model)[T.Pro-Kimi-K2.6],0.005555555555577668
+narrative_quality,C(model)[T.Pro-MiniMax-M2.5],-0.07777777777775564
+narrative_quality,C(task)[T.历史场景叙事],0.005000000000003464
+narrative_quality,C(task)[T.沉浸式体验设计],0.02666666666667014
+narrative_quality,Group Var,0.01776451233652725
+cultural_sensitivity,Intercept,5.001111111111128
+cultural_sensitivity,C(model)[T.DeepSeek-V4-Pro],0.005555555555548547
+cultural_sensitivity,C(model)[T.GLM-5.2],-0.005555555555562619
+cultural_sensitivity,C(model)[T.Kimi-K2.7-Code],0.00555555555554847
+cultural_sensitivity,C(model)[T.LongCat-2.0],-0.07222222222222931
+cultural_sensitivity,C(model)[T.MiniMax-M2.5],-0.016666666666673786
+cultural_sensitivity,C(model)[T.Nex-N2-Pro],-3.805555555555565
+cultural_sensitivity,C(model)[T.Pro-GLM-5.1],0.005555555555548771
+cultural_sensitivity,C(model)[T.Pro-Kimi-K2.6],0.00555555555554877
+cultural_sensitivity,C(model)[T.Pro-MiniMax-M2.5],-0.03333333333334012
+cultural_sensitivity,C(task)[T.历史场景叙事],-0.013333333333334653
+cultural_sensitivity,C(task)[T.沉浸式体验设计],-0.006666666666667975
+cultural_sensitivity,Group Var,0.006695551185378397
+historical_accuracy,Intercept,4.3472222222221815
+historical_accuracy,C(model)[T.DeepSeek-V4-Pro],0.22222222222225105
+historical_accuracy,C(model)[T.GLM-5.2],0.16111111111114046
+historical_accuracy,C(model)[T.Kimi-K2.7-Code],0.4388888888889177
+historical_accuracy,C(model)[T.LongCat-2.0],-0.049999999999970804
+historical_accuracy,C(model)[T.MiniMax-M2.5],-0.272222222222193
+historical_accuracy,C(model)[T.Nex-N2-Pro],-3.1444444444444146
+historical_accuracy,C(model)[T.Pro-GLM-5.1],0.12222222222225128
+historical_accuracy,C(model)[T.Pro-Kimi-K2.6],0.36111111111113997
+historical_accuracy,C(model)[T.Pro-MiniMax-M2.5],-0.2777777777777488
+historical_accuracy,C(task)[T.历史场景叙事],-0.14999999999999403
+historical_accuracy,C(task)[T.沉浸式体验设计],0.04166666666667272
+historical_accuracy,Group Var,0.03320122102106406
+immersion,Intercept,4.77444444444446
+immersion,C(model)[T.DeepSeek-V4-Pro],0.07222222222222552
+immersion,C(model)[T.GLM-5.2],0.055555555555558876
+immersion,C(model)[T.Kimi-K2.7-Code],0.01666666666666988
+immersion,C(model)[T.LongCat-2.0],-0.13333333333332997
+immersion,C(model)[T.MiniMax-M2.5],-0.18333333333332996
+immersion,C(model)[T.Nex-N2-Pro],-3.744444444444443
+immersion,C(model)[T.Pro-GLM-5.1],0.08333333333333659
+immersion,C(model)[T.Pro-Kimi-K2.6],0.07222222222222545
+immersion,C(model)[T.Pro-MiniMax-M2.5],-0.1499999999999967
+immersion,C(task)[T.历史场景叙事],0.1983333333333357
+immersion,C(task)[T.沉浸式体验设计],0.2283333333333359
+immersion,Group Var,0.037550752532378814
+personalization,Intercept,4.925555555555505
+personalization,C(model)[T.DeepSeek-V4-Pro],0.03888888888891144
+personalization,C(model)[T.GLM-5.2],0.05555555555557816
+personalization,C(model)[T.Kimi-K2.7-Code],0.05000000000002261
+personalization,C(model)[T.LongCat-2.0],-0.12777777777775487
+personalization,C(model)[T.MiniMax-M2.5],-0.11111111111108819
+personalization,C(model)[T.Nex-N2-Pro],-3.7499999999999774
+personalization,C(model)[T.Pro-GLM-5.1],0.061111111111133626
+personalization,C(model)[T.Pro-Kimi-K2.6],0.06666666666668919
+personalization,C(model)[T.Pro-MiniMax-M2.5],-0.08888888888886606
+personalization,C(task)[T.历史场景叙事],-0.03999999999998703
+personalization,C(task)[T.沉浸式体验设计],0.06333333333334626
+personalization,Group Var,0.016078607341459484

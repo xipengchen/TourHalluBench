@@ -1,0 +1,41 @@
+第二评委: Qwen/Qwen3.5-397B-A17B
+评分轮次完成情况: {1: 60, 2: 60, 3: 60}；完整轮次 = [1, 2, 3]
+
+== 评委内稳定性（pass1 vs pass2, n=60）==
+  narrative_quality        κ_w=0.979  exact=96.7%  MAD=0.033
+  cultural_sensitivity     κ_w=0.888  exact=91.7%  MAD=0.083
+  historical_accuracy      κ_w=0.888  exact=70.0%  MAD=0.300
+  immersion                κ_w=0.944  exact=91.7%  MAD=0.083
+  personalization          κ_w=0.944  exact=75.0%  MAD=0.250
+
+== 与主评委一致性（n=60）==
+  narrative_quality        κ_w=0.877  ρ=0.642  MAD=0.150  within-1=98.3%
+  cultural_sensitivity     κ_w=0.831  ρ=0.616  MAD=0.139  within-1=96.7%
+  historical_accuracy      κ_w=0.727  ρ=0.539  MAD=0.511  within-1=90.0%
+  immersion                κ_w=0.829  ρ=0.636  MAD=0.122  within-1=98.3%
+  personalization          κ_w=0.523  ρ=0.591  MAD=0.811  within-1=66.7%
+
+== 退化（空）输出 n=5 ==
+  主评委均分 1.00 ｜ 第二评委均分 1.00
+== 正常输出 n=55 ==
+  主评委均分 4.83 ｜ 第二评委均分 4.50
+
+== 端点总均分（同一 60 条子样本）==
+                   primary  second
+model                             
+Kimi-K2.7-Code        4.93    4.76
+GLM-5.2               4.87    4.79
+Pro-Kimi-K2.6         4.87    4.86
+Pro-GLM-5.1           4.87    4.78
+LongCat-2.0           4.87    4.33
+MiniMax-M2.5          4.83    4.01
+DeepSeek-V4-Pro       4.80    4.73
+DeepSeek-V4-Flash     4.77    4.28
+Pro-MiniMax-M2.5      4.67    3.92
+Nex-N2-Pro            1.63    1.60
+
+== D.3 判定 ==
+  全部 45 对: 一致 33 (73.3%)，不一致 26.7%
+  九端点子集 36 对: 一致 24 (66.7%)
+  端点排序 Spearman ρ=0.794  Kendall τ=0.645
+  D.3 阈值（不一致 >20% 触发升级）: 触发 — 精细排序须按协议降级处理

@@ -1,0 +1,11 @@
+model,BT_score,wins
+Pro-Kimi-K2.6,2.454,420
+Kimi-K2.7-Code,2.441,420
+DeepSeek-V4-Pro,1.348,358
+Pro-GLM-5.1,1.193,345
+GLM-5.2,1.161,342
+DeepSeek-V4-Flash,0.6,267
+LongCat-2.0,0.328,203
+Pro-MiniMax-M2.5,0.271,184
+MiniMax-M2.5,0.204,159
+Nex-N2-Pro,0.0,0
