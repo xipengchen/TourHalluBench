@@ -132,9 +132,8 @@ files and exits non-zero on any mismatch, so prose and data cannot drift apart s
 
 ```bibtex
 @article{tourhallubench,
-  title   = {TourHalluBench: A Multi-Dimensional Benchmark for LLM Hallucination
-             in Cultural Heritage Tourism},
-  journal = {Information Processing & Management},
+  title   = {Silence scores highest: Absence-defined measures in AI-mediated heritage interpretation},
+  journal = {Annals of Tourism Research},
   note    = {Under review},
   year    = {2026}
 }
